@@ -1,0 +1,51 @@
+astor @ file:///home/conda/feedstock_root/build_artifacts/astor_1593610464257/work
+brotlipy @ file:///home/conda/feedstock_root/build_artifacts/brotlipy_1648854175163/work
+certifi==2022.6.15
+cffi @ file:///home/conda/feedstock_root/build_artifacts/cffi_1625835293160/work
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1661170624537/work
+cryptography @ file:///home/conda/feedstock_root/build_artifacts/cryptography_1657174007680/work
+cycler==0.11.0
+Cython==0.29.32
+decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1641555617451/work
+et-xmlfile==1.1.0
+fonttools==4.36.0
+gast==0.3.3
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1642433548627/work
+joblib==1.1.0
+kiwisolver==1.4.4
+lap==0.4.0
+matplotlib==3.5.3
+motmetrics==1.2.5
+numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1660672950226/work
+onnx==1.12.0
+opencv-python==4.6.0.66
+openpyxl==3.0.10
+opt-einsum @ file:///home/conda/feedstock_root/build_artifacts/opt_einsum_1617859230218/work
+packaging==21.3
+paddle2onnx==0.9.8
+paddledet==2.4.0
+paddlepaddle-gpu @ file:///package/paddlepaddle_gpu-2.3.2.post116-cp38-cp38-linux_x86_64.whl
+pandas==1.4.3
+Pillow @ file:///home/conda/feedstock_root/build_artifacts/pillow_1660385857893/work
+protobuf==3.20.0rc2
+pycocotools==2.0.4
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1643496850550/work
+pyparsing==3.0.9
+PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1648857275402/work
+python-dateutil==2.8.2
+pytz==2022.2.1
+PyYAML==6.0
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1656534056640/work
+scikit-learn==1.1.2
+scipy==1.9.0
+Shapely==1.8.4
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+sklearn==0.0
+terminaltables==3.1.10
+threadpoolctl==3.1.0
+tqdm==4.64.0
+typeguard==2.13.3
+typing_extensions==4.3.0
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1658789158161/work
+xmltodict==0.13.0
